@@ -1,0 +1,21 @@
+House,Occupancy,Construction Year,Appliances Owned,Type,Size(bed)
+1,2,1975-1980, 35,Detached,4
+2,4,-,15,Semi-detached,3
+3,2,1988,27,Detached,3
+4,2,1850-1899,33,Detached,4
+5,4,1878,44,Mid-terrace,4
+6,2,2005,49,Detached,4
+7,4,1965-1974,25,Detached,3
+8,2,1966,35,Detached,2
+9,2,1919-1944,24,Detached,3
+10,4,1919-1944,31,Detached,3
+11,1,1945-1964,25,Detached,3
+12,3,1991-1995,26,Detached,3
+13,4,post 2002,28,Detached,4
+15,1,1965-1974,19,Semi-detached,3
+16,6,1981-1990,48,Detached,5
+17,3,mid 60s,22,Detached,3
+18,2,1965-1974,34,Detached,3
+19,4,1945-1964,26,Semi-detached,3
+20,2,1965-1974,39,Detached,3
+21,4,1981-1990,23,Detached,3
